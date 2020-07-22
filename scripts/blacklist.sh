@@ -5,7 +5,7 @@
 
 #####CHANGE STUFF HERE
 PIHOLE_DIR="/etc/pihole"
-ADLIST_URL="https://raw.githubusercontent.com/gioxx/ph-whitelist/master/domains/blocklist.md"
+ADLIST_URL="https://raw.githubusercontent.com/gioxx/ph-whitelist/master/domains/blocklists.md"
 CLEAN_ADLISTS_BEFORE_UPDATE=true
 
 
